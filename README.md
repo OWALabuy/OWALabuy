@@ -1,12 +1,4 @@
 <!---
-- 👋 Hi, I’m @OWALabuy 迷你世界欧阳闻奕
-- ✨ My Miniworld UIN is 528278703 .
-- 👀 I’m interested in watching porn .
-- 🌱 I’m currently learning HTML CSS JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 [My Telegram](https://t.me/OWALabuy)
---->
-<!---
 OWALabuy/OWALabuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -19,4 +11,11 @@ You can click the Preview link to take a look at your changes.
     戴猫耳吃猫饭装猫尾 以猫类的形态和心理要求自己 为成为一只真正的可爱猫猫而不懈奋斗 喵喵
 ```
 
-是男生？是女生？ 不 只是一只猫罢了
+FtX/enby 猫
+
+
+2024.4.10 戒除游戏 包括迷你世界、杀戮尖塔  或许会因参赛做图回游迷你世界
+
+2024.4.15 戒除短视频 公众号文章等娱乐项目
+
+准备戒除推特 还没有准备好...
