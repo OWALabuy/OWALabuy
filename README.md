@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 FtX/enby 猫
 
+音乐编程语言[Alda](https://github.com/alda-lang/alda)[中文文档](https://github.com/alda-lang/alda/tree/master/doc/doc_zh_cn)贡献者[之一](https://github.com/alda-lang/alda/pull/502)
+
 
 2024.4.10 戒除游戏 包括迷你世界、杀戮尖塔  或许会因参赛做图/维护项目回游迷你世界
 
