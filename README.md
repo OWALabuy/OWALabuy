@@ -3,7 +3,14 @@ OWALabuy/OWALabuy is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-欧阳闻奕 迷你世界玩家 Minecraft玩家 迷你号528278703 异端组织成员 世方府工作室室长
+欧阳闻奕 迷你世界玩家 迷你号528278703 异端组织成员 世方府工作室室长
+
+另外玩以下游戏：
+- Minecraft
+- Slay the Spire
+- Rust
+- Don't Starve Together
+- Rimworld
 
 ```
     我志愿成为一只人形猫 抛弃人格权利 接受猫类身份 遵守猫猫守则
@@ -15,4 +22,4 @@ FtX/enby 猫
 
 音乐编程语言[Alda](https://github.com/alda-lang/alda) [中文文档](https://github.com/alda-lang/alda/tree/master/doc/doc_zh_cn)贡献者[之一](https://github.com/alda-lang/alda/pull/502)
 
-迷你号已转交粉丝...不是本喵在登
+
