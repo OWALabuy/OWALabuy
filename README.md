@@ -6,9 +6,10 @@ You can click the Preview link to take a look at your changes.
 欧阳闻奕 迷你世界玩家 迷你号528278703 异端组织成员 世方府工作室室长
 
 另外玩以下游戏：
+- Rust
+- 7 Days to Die
 - Minecraft
 - Slay the Spire
-- Rust
 - Don't Starve Together
 - Rimworld
 
