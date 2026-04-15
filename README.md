@@ -3,15 +3,13 @@ OWALabuy/OWALabuy is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-欧阳闻奕 迷你世界玩家 迷你号528278703 异端组织成员 世方府工作室室长
+欧阳闻奕 前迷你世界玩家 迷你号528278703 异端组织成员 世方府工作室室长
 
 另外玩以下游戏：
-- Rust
 - 7 Days to Die
 - Minecraft
 - Slay the Spire
 - Don't Starve Together
-- Rimworld
 
 ```
     我志愿成为一只人形猫 抛弃人格权利 接受猫类身份 遵守猫猫守则
