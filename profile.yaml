@@ -1,0 +1,94 @@
+# Content source for the generated GitHub profile SVG.
+#
+# Every entry under `rows` occupies one visual line, including rules and spacers.
+# Keep no more than 16 uncommented entries. Reorder, delete, or comment out rows
+# freely; the renderer should not attach special meaning to particular labels.
+
+profile:
+  ascii_file: tux.txt
+  max_rows: 16
+
+theme:
+  name: gruvbox
+  dark:
+    background: "#282828"
+    foreground: "#ebdbb2"
+    label: "#fabd2f"
+    accent: "#b8bb26"
+    muted: "#928374"
+  light:
+    background: "#fbf1c7"
+    foreground: "#3c3836"
+    label: "#b57614"
+    accent: "#79740e"
+    muted: "#928374"
+
+rows:
+  - { text: "OWALabuy@github", style: header }
+  - { rule: true }
+  - { label: OS,             value: "Linux / Windows 10 / Android" }
+  - { label: Uptime,         value: "21 Years" }
+  - { label: Occupations,    value: "Programmer / Adult Model" }
+  - { label: Dev.Focus,      value: "AI product, infra" }
+  - { label: Languages.Code, value: "TypeScript, Python, Lua" }
+  - { label: AI.Tooling,     value: "Codex, Claude Code, Cursor" }
+  - { label: Owner,          value: "Miniwan" }
+  - { spacer: true }
+  - { label: Email.Work,     value: "ouyangwenyi@mini1.cn" }
+  - { label: Email.Personal, value: "owalabuy@gmail.com" }
+  - { label: Website,        value: "owalabuy.tech" }
+  - { label: Twitter,        value: "@OWALabuy" }
+  - { label: Telegram,       value: "@OWALabuy" }
+  - { label: Pornhub,        value: "pornhub.com/users/owalabuy" }
+
+  # Optional identity rows
+  # - { label: Host,           value: "<computer model or hostname>" }
+  # - { label: Name,           value: "<name or stage name>" }
+  # - { label: Pronouns,       value: "<pronouns>" }
+  # - { label: Location,       value: "<city / country / timezone>" }
+  # - { label: Languages.Human,value: "<Chinese, English, ...>" }
+  # - { label: Bio,            value: "<one short description>" }
+
+  # Optional computer rows
+  # - { label: Kernel,         value: "<kernel name and version>" }
+  # - { label: Shell,          value: "<zsh / bash / fish / PowerShell>" }
+  # - { label: Terminal,       value: "<terminal emulator>" }
+  # - { label: CPU,            value: "<processor>" }
+  # - { label: GPU,            value: "<graphics processor>" }
+  # - { label: Memory,         value: "<installed memory>" }
+  # - { label: WM.DE,          value: "<window manager or desktop environment>" }
+  # - { label: Browser,        value: "<browser>" }
+
+  # Optional development rows
+  # - { label: Web,            value: "<React, Vue, Node.js, ...>" }
+  # - { label: Frameworks,     value: "<frameworks you actively use>" }
+  # - { label: Tools,          value: "<Docker, Git, Linux, Blender, ...>" }
+  # - { label: Databases,      value: "<PostgreSQL, SQLite, Redis, ...>" }
+  # - { label: Current.Project,value: "<what you are building>" }
+  # - { label: Learning,       value: "<what you are learning>" }
+  # - { label: Open.Source,    value: "<project or contribution focus>" }
+  # - { label: Available.For,  value: "<employment / freelance / collaboration>" }
+
+  # Optional adult-work rows
+  # - { label: Adult.Work,     value: "<model / creator / performer>" }
+  # - { label: Content,        value: "<your content focus>" }
+  # - { label: Bookings,       value: "<open / closed / contact method>" }
+  # - { label: Collaborations, value: "<open / selective / closed>" }
+  # - { label: OnlyFans,       value: "<username or short profile URL>" }
+  # - { label: Fansly,         value: "<username or short profile URL>" }
+
+  # Optional contact and social rows
+  # - { label: GitHub,         value: "<@username>" }
+  # - { label: Telegram,       value: "<@username>" }
+  # - { label: Instagram,      value: "<@username>" }
+  # - { label: Bluesky,        value: "<handle>" }
+  # - { label: Mastodon,       value: "<handle@instance>" }
+  # - { label: Discord,        value: "<username>" }
+
+  # Optional personality rows
+  # - { spacer: true }
+  # - { label: Interests,      value: "<AI, open source, photography, ...>" }
+  # - { label: Hobbies,        value: "<games, music, fitness, travel, ...>" }
+  # - { label: Now.Playing,    value: "<album / artist / playlist>" }
+  # - { label: Status,         value: "<short status message>" }
+  # - { label: Motto,          value: "<short personal line>" }

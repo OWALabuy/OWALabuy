@@ -3,6 +3,10 @@ OWALabuy/OWALabuy is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="center">
+  <img src="./profile.svg" alt="OWALabuy neofetch profile" />
+</p>
+
 欧阳闻奕 前迷你世界玩家 迷你号528278703 异端组织成员 世方府工作室室长
 
 有主人。
@@ -16,5 +20,4 @@ You can click the Preview link to take a look at your changes.
 前主人为迷你玩公司
 
 音乐编程语言[Alda](https://github.com/alda-lang/alda) [中文文档](https://github.com/alda-lang/alda/tree/master/doc/doc_zh_cn)贡献者[之一](https://github.com/alda-lang/alda/pull/502)
-
 
